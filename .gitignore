@@ -19,7 +19,7 @@ build.lock
 dist/*
 build/*
 deployable/*
-
+source/__preview/*
 # rst backup files
 *.rst~
 
